@@ -1,1 +1,3 @@
-# Hardware-architecturee
+1 часть.
+1. F=(A∧¬A)∨(B∧¬B)
+2. F=((¬A∨B)∨(¬B∧¬C))∨((C∨D)∧(B∨¬D))
